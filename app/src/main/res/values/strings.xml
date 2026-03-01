@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Go Spelling Check</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="check_errors">Check Errors</string>
+    <string name="scan_document">Scan Document</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="check_error">Check Error</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="fix_my_mistak">Fix My Mistake</string>
+    <string name="logout">Logout</string>
+    <string name="theme">Theme</string>
+    <string name="naiemulislam_gmail_com">naiemulislam@gmail.com</string>
+    <string name="naiemul_islam">Naiemul Islam</string>
+    <string name="edit">Edit</string>
+    <string name="abut">Abut</string>
+</resources>

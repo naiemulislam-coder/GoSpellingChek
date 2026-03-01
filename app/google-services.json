@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808049719470",
+    "project_id": "go-spelling-chek",
+    "storage_bucket": "go-spelling-chek.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808049719470:android:f5e0b13a6a00400f96d53f",
+        "android_client_info": {
+          "package_name": "com.naiemul.gospellingchek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYeHg-Oqgajdu25f1KIC-LBS8GLWn2tJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
